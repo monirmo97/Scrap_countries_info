@@ -7,19 +7,19 @@ This repository contains a comprehensive project that involves scraping countrie
 Contents
 Part 1: Web Scraping with BeautifulSoup
 
-part1_beautifulsoup.py
+part1_beautifulsoup
 
 This part involves scraping countries information from 'https://www.currencyremitapp.com/world-currency-symbols' using BeautifulSoup.
 
 Part 2: Web Scraping with Spiders
 
-part2_spiders.py
+part2_spiders
 
 This part demonstrates how to scrape the same information using a spider-based approach.
 
 Part 3: Data Management and Reporting
 
-part3_data_management.py
+part3_data_management
 
 This code allows users to retrieve information about countries, save user inputs, and generate reports based on the scraped data.
 
